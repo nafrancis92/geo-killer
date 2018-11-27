@@ -1,0 +1,9 @@
+﻿  Game.cpp
+c:\users\grungrah\documents\visual studio 2017\projects\sfml_shmup_refactored\sfml_shmup_refactored\game.cpp(23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grungrah\documents\visual studio 2017\projects\sfml_shmup_refactored\sfml_shmup_refactored\game.cpp(59): warning C4551: function call missing argument list
+c:\users\grungrah\documents\visual studio 2017\projects\sfml_shmup_refactored\sfml_shmup_refactored\game.cpp(69): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\grungrah\documents\visual studio 2017\projects\sfml_shmup_refactored\sfml_shmup_refactored\game.cpp(108): warning C4551: function call missing argument list
+c:\users\grungrah\documents\visual studio 2017\projects\sfml_shmup_refactored\sfml_shmup_refactored\game.cpp(114): warning C4551: function call missing argument list
+c:\users\grungrah\documents\visual studio 2017\projects\sfml_shmup_refactored\sfml_shmup_refactored\game.cpp(249): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\grungrah\documents\visual studio 2017\projects\sfml_shmup_refactored\sfml_shmup_refactored\game.cpp(258): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  SFML_Shmup_Refactored.vcxproj -> C:\Users\grungrah\documents\visual studio 2017\Projects\SFML_Shmup_Refactored\Debug\SFML_Shmup_Refactored.exe
